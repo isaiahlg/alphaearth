@@ -12,4 +12,4 @@ This repository contains code for pulling and visualizing experimenting with Alp
 3. Create your own Earth Engine account and follow the instructions [here](https://developers.google.com/earth-engine/guides/python_install) to authenticate your account.
 4. Run all the cells. You should get a visualization that looks like this:
 
-   ![Boston Embeddings](boston.png)
+   ![Boston Embeddings](boston-embeddings.png)
