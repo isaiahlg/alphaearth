@@ -1,6 +1,6 @@
-# Playing Around with Alpha Earth Embeddings
+# Wealth Mapping with Alpha Earth Embeddings
 
-This repository contains code for pulling and visualizing experimenting with Alpha Earth embeddings. 
+This repository contains code for pulling and visualizing experimenting with Alpha Earth embeddings. We then use these embeddings to predict wealth and poverty across various countries in the SustainBench dataset, matched spatially and temporally.
 
 ## Setup
 1. Clone the repo 
